@@ -8,4 +8,5 @@
 | 0150 | [Evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0150-evaluate-reverse-polish-notation) | Medium | 
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0207-course-schedule) | Medium | 
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0542-01-matrix) | Medium |
+| 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0576-out-of-boundary-paths) | Medium |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/2830-maximize-the-profit-as-the-salesman) | Medium | 
