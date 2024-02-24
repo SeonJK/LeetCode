@@ -9,29 +9,22 @@ class MinStack {
     
     public void push(int val) {
         minValue = Math.min(val, minValue);
-        System.out.println("push() :: minValue=" + minValue + ", val="+val);
         stack.push(new Pair(val, minValue));
-        System.out.println("push()2 :: s.minValue=" + stack.peek().getMinValue() + ", s.val="+stack.peek().getVal());
     }
     
     public void pop() {
         stack.pop();
-        if (!stack.empty()) {
+        if (!stack.empty())
             minValue = stack.peek().getMinValue();
-            System.out.println("pop() :: minValue=" + minValue + ", val="+ stack.peek().getVal());
-        } else {
+        else
             minValue = Integer.MAX_VALUE;
-            System.out.println("pop() :: minValue=" + minValue);
-        }
     }
     
     public int top() {
-        System.out.println("top() :: minValue=" + minValue + ", val="+stack.peek().getVal() + ", s.min=" + stack.peek().getMinValue());
         return stack.peek().getVal();
     }
     
     public int getMin() {
-        System.out.println("getMin() :: minValue=" + minValue + ", val="+ stack.peek().getVal() + ", s.min=" + stack.peek().getMinValue());
         return minValue;
     }
 }
