@@ -4,8 +4,11 @@
 |---| ----- | -------- | ---------- |
 | 0015 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0015-3sum) | Medium |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0057-insert-interval) | Medium |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0098-validate-binary-search-tree) | Medium |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0133-clone-graph) | Medium |
 | 0150 | [Evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0150-evaluate-reverse-polish-notation) | Medium | 
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0155-min-stack) | Medium |
+| 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0200-number-of-islands) | Medium |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0207-course-schedule) | Medium |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0208-implement-trie-prefix-tree) | Medium |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0238-product-of-array-except-self) | Medium |
