@@ -23,4 +23,5 @@
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0576-out-of-boundary-paths) | Medium |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0981-time-based-key-value-store) | Medium |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0994-rotting-oranges) | Medium |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling) | Hard |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/2830-maximize-the-profit-as-the-salesman) | Medium | 
