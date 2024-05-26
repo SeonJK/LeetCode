@@ -2,11 +2,14 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0004-median-of-two-sorted-arrays) | Hard |
 | 0015 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0015-3sum) | Medium |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0033-search-in-rotated-sorted-array) | Medium |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0039-combination-sum) | Medium |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0042-trapping-rain-water) | Hard |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0046-permutations) | Medium |
+| 0054 | [Spiral Matrix
+](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0054-spiral-matrix) | Medium |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0057-insert-interval) | Medium |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0075-sort-colors) | Medium |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0076-minimum-window-substring) | Hard |
@@ -22,8 +25,11 @@
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0208-implement-trie-prefix-tree) | Medium |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0238-product-of-array-except-self) | Medium |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0322-coin-change) | Medium |
+| 0416 | [Partition Equal Subset Sum
+](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0416-partition-equal-subset-sum) | Medium |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0542-01-matrix) | Medium |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0576-out-of-boundary-paths) | Medium |
+| 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0895-maximum-frequency-stack) | Hard |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0981-time-based-key-value-store) | Medium |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0994-rotting-oranges) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling) | Hard |
