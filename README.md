@@ -26,8 +26,7 @@
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0238-product-of-array-except-self) | Medium |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0322-coin-change) | Medium |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix) | Hard |
-| 0416 | [Partition Equal Subset Sum
-](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0416-partition-equal-subset-sum) | Medium |
+| 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0416-partition-equal-subset-sum) | Medium |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0542-01-matrix) | Medium |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0576-out-of-boundary-paths) | Medium |
 | 0895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0895-maximum-frequency-stack) | Hard |
