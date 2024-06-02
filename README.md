@@ -13,6 +13,7 @@
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0057-insert-interval) | Medium |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0075-sort-colors) | Medium |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0076-minimum-window-substring) | Hard |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0078-subsets) | Medium |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0084-largest-rectangle-in-histogram) | Hard |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0098-validate-binary-search-tree) | Medium |
 | 0127 | [Word ladder](https://leetcode.com/problems/word-ladder/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0127-word-ladder) | Hard |
@@ -25,6 +26,7 @@
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0208-implement-trie-prefix-tree) | Medium |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0238-product-of-array-except-self) | Medium |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0322-coin-change) | Medium |
+| 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix) | Hard |
 | 0416 | [Partition Equal Subset Sum
 ](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0416-partition-equal-subset-sum) | Medium |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0542-01-matrix) | Medium |
