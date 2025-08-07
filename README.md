@@ -37,3 +37,19 @@
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0994-rotting-oranges/0994-rotting-oranges.java) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/1235-maximum-profit-in-job-scheduling.java) | Hard |
 | 2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/2830-maximize-the-profit-as-the-salesman/2830-maximize-the-profit-as-the-salesman.java) | Medium | 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SeonJK/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SeonJK/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SeonJK/LeetCode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
