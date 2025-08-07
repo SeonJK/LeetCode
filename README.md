@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/SeonJK/LeetCode/blob/main/0002-add-two-numbers/0002-add-two-numbers.java) | Medium |
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java) | Hard |
 | 0015 | [3sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0015-3sum/0015-3sum.java) | Medium |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/SeonJK/LeetCode/tree/main/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java) | Medium |
